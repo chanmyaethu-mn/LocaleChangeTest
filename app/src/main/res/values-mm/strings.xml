@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">လိုကေးပြောင်းစမ်း</string>
     <string name="greeting">ဟဲလို ကမ္ဘာကြီး</string>
+    <string name="mm_btn_name">မြန်မာ</string>
 </resources>

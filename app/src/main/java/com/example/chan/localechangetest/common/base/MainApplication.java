@@ -1,4 +1,4 @@
-package com.example.chan.localechangetest;
+package com.example.chan.localechangetest.common.base;
 
 import android.app.Application;
 import android.content.Context;
