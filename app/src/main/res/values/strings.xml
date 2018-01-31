@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocaleChangeTest</string>
+
+    <string name="eng_btn_name">EN</string>
+
+    <string name="mm_btn_name">MM</string>
+
+    <string name="greeting">Hello World</string>
+</resources>
